@@ -1,5 +1,7 @@
 var inquirer = require("inquirer");
-
+var generateMarkdown = require("./utils/generateMarkdown");
+var fs = require("fs");
+var path = require("path")
 
 
 // array of questions for user
@@ -48,6 +50,8 @@ const questions = [
 
 // function to write README file
 function writeToFile(fileName, data) {
+    console.log(data)
+    return fs.writeFileSync(path.join(process.cwd(),fileName),data);
 }
 
 // function to initialize program
@@ -55,13 +59,7 @@ function init() {
     inquirer
   .prompt(questions)
   .then(function(response) {
-
-    if (response.confirm === response.password) {
-      console.log("Success!");
-    }
-    else {
-      console.log("You forgot your password already?!");
-    }
+      writeToFile("Readme.md", generateMarkdown(response));
   });
 }
 
