@@ -1,7 +1,7 @@
-# Hello Moto
+# Project 500
 
   ## Description
-  An app that helps connect fones
+  A read generator
 
   ## Table of Contents 
   
@@ -13,14 +13,14 @@
   * [Questions](#questions)
   
   ## Installation
-  Use your cell
+  None
   ## Usage
-  With fones
+  With github
   ## License
   mtt
   ## Contributing
-  Nothing
+  Nothing 
   ## Tests
-  Any
+  None
   ## Questions
-  ejl@aol
+  713 777 9339
