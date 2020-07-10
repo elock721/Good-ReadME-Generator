@@ -1,4 +1,3 @@
-// const { licenseFinder, generateBadge } = require("./licenseFinder")
 
 
 // function to generate markdown for README
