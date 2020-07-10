@@ -1,7 +1,7 @@
-# Good ReadME Generator 5000
+# Good ReadME 5000
 
   ## Description
-  Lorem1
+  Lorem 1
 
   ## Table of Contents 
 
@@ -13,14 +13,14 @@
   * [Questions](#questions)
   
   ## Installation
-  Lorem2
+  Lorem 2
   ## Usage
-  Lorem3
+  Lorem 3
   ## License
-  Lorem4
+  Lorem 4
   ## Contributing
-  Lorem5
+  Lorem 5
   ## Tests
-  Lorem6
+  Lorem 6
   ## Questions
-  Lorem7
+  Lorem 7
