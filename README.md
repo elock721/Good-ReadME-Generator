@@ -15,7 +15,9 @@
   ## Installation
   Lorem2
   ## Usage
-  Lorem3
+  ![](images/step1.png)
+  
+  
   ## License
   Lorem4
   ## Contributing
