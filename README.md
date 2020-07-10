@@ -1,7 +1,7 @@
-# The Ultimate ReadME Generator 5000
+# Good ReadME Generator 5000
 
   ## Description
-  For this project I created an application that allows the user to generate a readME.md through the command line 
+  Lorem1
 
   ## Table of Contents 
 
@@ -13,14 +13,14 @@
   * [Questions](#questions)
   
   ## Installation
-  Run "node index.js"
+  Lorem2
   ## Usage
-  This applicaiton will be used to more efficiently generate high quality readME's
+  Lorem3
   ## License
-  MIT
+  Lorem4
   ## Contributing
-  You need to know how to use the command line and be familiar with "node.js" 
+  Lorem5
   ## Tests
-  "node index.js" is the necessary command to run the application and you need to  make sure you are in the right file first
+  Lorem6
   ## Questions
-  ejl@aol.com
+  Lorem7
