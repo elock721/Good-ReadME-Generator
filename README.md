@@ -1,7 +1,7 @@
-# fs
+# Good ReadME 5000
 
   ## Description
-  sdf
+  For this project I built an application in the Command Line that generates a readme markdown file for the user
 
   ## Table of Contents 
 
@@ -13,14 +13,14 @@
   * [Questions](#questions)
   
   ## Installation
-  sdf
+  ![](images/step1.png) ![](images/step2.png) ![](images/step3.png) ![](images/step4.png)    
   ## Usage
-  sdf
+  This application will be used to more effciently generate readme's for users
   ## License
-  sdf
+  MIT
   ## Contributing
-  sdf
+  You need to be very familiar with the command line and understand "node.js"
   ## Tests
-  sdf
+  "node index.js"
   ## Questions
-  sdf
+  ejl@aol.com
