@@ -1,3 +1,6 @@
+// const { licenseFinder, generateBadge } = require("./licenseFinder")
+
+
 // function to generate markdown for README
 function generateMarkdown(data) {
   return `# ${data.Title}
@@ -6,7 +9,7 @@ function generateMarkdown(data) {
   ${data.Description}
 
   ## Table of Contents 
-  
+
   * [Installation](#installation)
   * [Usage](#usage)
   * [License](#license)

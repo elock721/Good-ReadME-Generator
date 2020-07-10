@@ -1,7 +1,7 @@
 var inquirer = require("inquirer");
 var generateMarkdown = require("./utils/generateMarkdown");
 var fs = require("fs");
-var path = require("path")
+var path = require("path");
 
 
 // array of questions for user
@@ -18,7 +18,7 @@ const questions = [
       },
       {
         type: "input",
-        message: "Please necessary steps for installation.",
+        message: "Please describe the necessary steps for installation.",
         name: "Installation"
       },
       {
@@ -59,6 +59,7 @@ function init() {
     inquirer
   .prompt(questions)
   .then(function(response) {
+      
       writeToFile("Readme.md", generateMarkdown(response));
   });
 }
